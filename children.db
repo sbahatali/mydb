@@ -1,0 +1,8 @@
+[
+  "kids":[
+    {"name": "Shehram", "age": 5, "country": "Pakistan"},
+    {"name": "Khizar", "age": 2, "country": "USA" },
+    {"name": "Ashar", "age": 1, "country":"Pakistan" },
+    {"name": "Haider", "age": 0.5, "country":"Pakistan" }
+    ]
+]
